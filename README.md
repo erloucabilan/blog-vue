@@ -1,4 +1,5 @@
 # blog-vue
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+This is a personal project or blog using vue
+>>>>>>> a36e6a2d9769ea4f5257f24331ef8611f84c88cc
