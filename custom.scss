@@ -1,0 +1,13 @@
+$primary: purple;
+$danger: #ff4136;
+$enable-grid-classes: false;
+$enable-cssgrid: true;
+
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../blog-vue/node_modules/bootstrap/scss/bootstrap.scss"
+
+// Then add additional custom code here
