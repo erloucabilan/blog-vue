@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <h1>This is for blog vue</h1>
+  <div>
+    <h1 class="text-primary">This is heading 1</h1>
+  </div>
 </template>
